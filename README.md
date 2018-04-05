@@ -1,3 +1,3 @@
 # ALDA-skiplist
 
-Assignment for an Algorithms and Data structures course
+Implements a skip list in Java.
